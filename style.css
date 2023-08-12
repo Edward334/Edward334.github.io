@@ -1,0 +1,15 @@
+*{
+    font-family: "PingFang SC";
+    color: white;
+    text-align: center;
+}
+*[title=""]{
+    color: orange;
+}
+*[title="1"]{
+    color: slateblue;
+}
+body{
+    background: skyblue;
+    background-size: 850px 1350px;
+}
